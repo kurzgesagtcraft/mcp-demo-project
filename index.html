@@ -3,6 +3,18 @@
 <head>
     <title>MCP Demo Project</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        @keyframes ripple {
+            from {
+                transform: scale(0.1);
+                opacity: 1;
+            }
+            to {
+                transform: scale(2);
+                opacity: 0;
+            }
+        }
+    </style>
 </head>
 <body>
     <h1>Welcome to MCP Demo Project</h1>
@@ -12,5 +24,6 @@
         <li>Demonstrates GitHub integration</li>
         <li>Shows how to upload files to GitHub</li>
     </ul>
+    <script src="script.js"></script>
 </body>
 </html>
