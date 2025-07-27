@@ -1,0 +1,13 @@
+{
+  "projectName": "MCP Demo Project",
+  "version": "1.0.0",
+  "author": "kurzgesagtcraft",
+  "description": "A demo project created with GitHub MCP Server tools",
+  "features": [
+    "File management",
+    "Repository creation",
+    "Content updates"
+  ],
+  "createdWith": "GitHub MCP Server",
+  "creationDate": "2025-07-27"
+}
